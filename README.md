@@ -1,1 +1,4 @@
-[![My LeetCode stats](https://leetcode-stats-six.vercel.app/?username=atharvachiplunkar)](https://github.com/atharvachiplunkar/leetcode-stats)
+# Leetcode Stats
+![My LeetCode stats](https://leetcard.jacoblin.cool/atharvachiplunkar?ext=contest)
+
+Leetcode Profile - https://leetcode.com/u/atharvachiplunkar/
