@@ -2,7 +2,8 @@
 2812. Find the Safest Path in a Grid
 Type - Medium (seems Hard)
 
-Topics - Array, Binary Search, Breadth-First Search, Union Find, Matrix
+Topics - Array, Binary Search, Breadth-First Search, Union Find, Matrix,
+        Heap (I sovled it with heap)
 
 You are given a 0-indexed 2D matrix grid of size n x n, where (r, c) represents:
 
